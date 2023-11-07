@@ -1,7 +1,7 @@
 # Realme Europe bootloader unlock
 
 WARNING! 
-I tried it on realme 7, but it should work on other devices.
+I tried it on realme 7, but it should work on other devices (only mediatek).
 
 # PROCEDURE:
 

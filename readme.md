@@ -1,4 +1,4 @@
-# Realme Europe bootloader unlock
+# Realme Europe bootloader unlock DO NOT USE THIS BRANCH! ITS WIP
 
 WARNING! 
 I tried it on realme 7, but it should work on other devices (only mediatek).

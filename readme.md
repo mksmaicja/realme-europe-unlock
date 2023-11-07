@@ -1,7 +1,9 @@
 # Realme Europe bootloader unlock 
 
 WARNING! 
-It was tested on RMX3301, but you can try it on other models
+It was tested on RMX3301, but you can try it on other models.
+
+If your build is lower than RMX####_11_A.14, or higher than RMX####_11_A.21, you need to downgrade/upgrade your rom by OTA package!
 
 # PROCEDURE:
 

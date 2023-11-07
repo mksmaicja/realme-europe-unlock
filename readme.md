@@ -18,3 +18,13 @@ It was tested on RMX3301, but you can try it on other models
 At this point you can follow the procedure on the official forum to unlock the bootloader of the global model. If you already have the Deeptesting app installed, clear its data to make sure it will update.
 
 Deeptest apk also included in repo!
+
+
+# UNLOCK USING DEEPTEST APP
+
+1. Change region to vietnam(or any with supported bootloader unlock) and install deeptest.apk
+2. Crear data for installed app
+3. Run deeptest application and wait for it to complete
+4. Start in-depth test
+5. Your phone should reboot to bootloader, connect it to pc and type in cmd: fastboot flashing unlock  (you need to have platform tools and fastboot drivers installed!)
+6. Bootloader Unlocked!
